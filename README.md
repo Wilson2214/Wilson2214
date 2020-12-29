@@ -1,4 +1,10 @@
-### Hi there 👋
+# Welcome to my Git
+
+- 🌱 I’m currently working to enhance my R and Python skills
+- :earth_africa: I enjoy projects with positive social impact!
+- 📫 How to find me:
+  - :office: [Nithio](https://www.nithio.com/)
+  - :bulb: [LinkedIn](https://www.linkedin.com/in/davewilson2214/)
 
 <!--
 **Wilson2214/Wilson2214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
