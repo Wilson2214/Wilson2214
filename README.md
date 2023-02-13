@@ -1,6 +1,7 @@
 # Welcome to my Git
 
-- 🌱 I’m currently working to enhance my R and Python skills
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently working to enhance my Data Engineering skills in Python, Spark, and SQL
 - :earth_africa: I enjoy projects with positive social impact!
 - 📫 How to find me:
   - :office: [Nithio](https://www.nithio.com/)
