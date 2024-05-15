@@ -7,7 +7,6 @@
   - :office: [Nithio](https://www.nithio.com/)
   - :bulb: [LinkedIn](https://www.linkedin.com/in/davewilson2214/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilson2214)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 https://towardsdatascience.com/build-an-impressive-github-profile-in-3-steps-f1938957d480
 
