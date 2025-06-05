@@ -4,7 +4,7 @@
 - 🌱 I’m currently working to enhance my Data Engineering skills in Python, Spark, and SQL
 - :earth_africa: I enjoy projects with positive social impact!
 - 📫 How to find me:
-  - :office: [Nithio](https://www.nithio.com/)
+  - :office: [Kraken]([kraken](https://kraken.tech/))
   - :bulb: [LinkedIn](https://www.linkedin.com/in/davewilson2214/)
 
 <!--
